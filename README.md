@@ -30,6 +30,11 @@
 ## Insights
 * The model strugles with two topics orbites and societe. This could be because there is no strong keywords for these topics.
 
+## Enhancements
+* Try different feature extraction methods such as Doc2vec.
+* merge orbites and societe topics to general topic.
+* fine tune a transformer based model like GPT3.
+  
 
 
 
